@@ -14,10 +14,10 @@ I am currently honing my skills in full-stack development through an intensive p
 
 Currently submerged in the world of full-stack development, learning:
 
-- <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> **PSQL**
-- <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white" alt="Express.js" /> **Express**
-- <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" /> **React**
-- <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js" /> **Node**
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) **PSQL**
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white) **Express**
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) **React**
+- ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) **Node**
 
 My next goal is to explore ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white) **React Native** for building cross-platform mobile applications.
 
