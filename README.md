@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hi there 👋, I'm Saabir!
 
-<!--
-**ProdiGeeZ/ProdiGeeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Welcome to my GitHub profile!** 🌟
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **What I'm Currently Working On:**
+
+I am currently honing my skills in full-stack development through an intensive program at Northcoders, a respected Bootcamp known for its rigorous and industry-relevant curriculum.
+
+---
+
+🌱 **Currently Learning:**
+
+Currently submerged in the world of full-stack development, learning:
+
+- <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> **PSQL**
+- <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white" alt="Express.js" /> **Express**
+- <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" /> **React**
+- <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js" /> **Node**
+
+My next goal is to explore ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white) **React Native** for building cross-platform mobile applications.
+
+---
+
+🔍 **Interested In:**
+
+- Building innovative projects using my current tech stack.
+- Continuously learning and integrating new technologies in my projects.
+
+---
+
+📫 **How to Reach Me:**
+
+Feel free to email me at [saabirahmed@live.co.uk](mailto:saabirahmed@live.co.uk) for collaborations, discussions, or just a friendly chat about tech!
+
+---
+
+⚡ **Fun Fact:**
+
+I'm addicted to coffee ☕ Not an enthusiast though. So same as almost every developer. lol.
