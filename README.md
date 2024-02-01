@@ -19,7 +19,7 @@ Currently submerged in the world of full-stack development, learning:
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) **React**
 - ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) **Node**
 
-My next goal is to explore ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white) **React Native** for building cross-platform mobile applications.
+My next goal is to explore ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white) for building cross-platform mobile applications.
 
 ---
 
