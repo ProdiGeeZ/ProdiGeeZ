@@ -1,8 +1,5 @@
 <div align="center">
 
-# 👋 Ello Ello Ello! I'm Saabir!
-## 🌟 Software Engineer | Manchester, England | Passionate Creator
-Heavy creative enthusiast met code for the first time at university. I am actively looking to build. Not just code, but to network with other like-minded developers!
 <div id="badges">
   <a href="https://www.linkedin.com/in/saabirahmed">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,6 +16,13 @@ Heavy creative enthusiast met code for the first time at university. I am active
 
 <br>
 
+# 👋 Ello Ello Ello! I'm Saabir!
+## 🌟 Software Engineer | Manchester, England | Passionate Creator
+
+Heavy creative enthusiast met code for the first time at university. I am actively looking to build. Not just code, but to network with other like-minded developers!
+
+<br>
+
 ## 🔭 Projects & Learning
 
 - Recently rolled out a private **Cryptocurrency Analytics Web Application** with live market data.
@@ -27,27 +31,39 @@ Heavy creative enthusiast met code for the first time at university. I am active
 
 <br>
 
-## 🛠️ My Tech Stack
-<div>
+<table>
+
+### 🛠️ My Tech Stack
+
+<div style="background-color: #f0f0f0">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="TailWind" alt="TailWind" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="TailWind" alt="TailWind" width="40" height="40"/>
 </div>
 
 <br>
 
-## 🌐 Connect & Collaborate
-📬 Email me to connnect @ [saabirahmed@live.co.uk](mailto:saabirahmed@live.co.uk)
-<br>
-🌍 See my work on my portfolio here! : [www.saabir.dev](https://www.saabir.dev/)
+### 🌐 Connect & Collaborate
+
+<div style="align: center;">
+ 📬 Email me to connect @ <a href="mailto:saabirahmed@live.co.uk">saabirahmed@live.co.uk</a><br>
+ 🌍 See my work on my portfolio here! : <a href="https://www.saabir.dev">www.saabir.dev</a>
+</div>
+
+
+</table>
+
+
 
 ## 📊 My GitHub Stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prodigeez&theme=gotham&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=900)](https://git.io/streak-stats)
 
 ### ⚡ Fun Fact:
+
 Still addicted to coffee ☕ — a shared trait among developers!
+
 </div>
