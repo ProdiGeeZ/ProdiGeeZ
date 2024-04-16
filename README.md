@@ -1,13 +1,8 @@
 <div align="center">
 
-# Ello Ello Ello 👋
-
-### My name is Saabir! Welcome to my GitHub Repo!
-
-I am a Full-Stack developer based in Manchester, England, with a passion to create! 🌟
-
-<br>
-
+# 👋 Ello Ello Ello! I'm Saabir!
+## 🌟 Software Engineer | Manchester, England | Passionate Creator
+Heavy creative enthusiast met code for the first time at university. I am actively looking to build. Not just code, but to network with other like-minded developers!
 <div id="badges">
   <a href="https://www.linkedin.com/in/saabirahmed">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,23 +15,19 @@ I am a Full-Stack developer based in Manchester, England, with a passion to crea
   </a>
 </div>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=prodigeez&style=flat-square&color=blue" alt=""/>
 
 <br>
 
-## 🔭 Recent Projects:
+## 🔭 Projects & Learning
 
-I have just completed a private project for a cryptocurrency analytics web application, working with a live market API and complex data structures!
-
-<br>
-
-I'm now moving into exploring mobile development using TypeScript and React Native! 📱 I will be looking to deploy my own app soon—stay tuned!
+- Recently rolled out a private **Cryptocurrency Analytics Web Application** with live market data.
+- Graduated from **Northcoders Bootcamp**, diving deep into full-stack development.
+- Transitioning to learning **Mobile Development** with TypeScript and React Native.
 
 <br>
 
-**My go-to tech stack as of right now is:**
+## 🛠️ My Tech Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
@@ -49,34 +40,14 @@ I'm now moving into exploring mobile development using TypeScript and React Nati
 
 <br>
 
-## 🔍 Looking Forward:
-
-I am actively looking to contribute and learn more by trying new technologies. 🌐
-
+## 🌐 Connect & Collaborate
+📬 Email me to connnect @ [saabirahmed@live.co.uk](mailto:saabirahmed@live.co.uk)
 <br>
+🌍 See my work on my portfolio here! : [www.saabir.dev](https://www.saabir.dev/)
 
-## 📫 How to Reach Me:
-
-Feel free to email me at [saabirahmed@live.co.uk](mailto:saabirahmed@live.co.uk) for collaborations, discussions, or just a friendly chat about tech! ✉️
-
-Visit my portfolio: [www.saabir.dev](https://www.saabir.dev/)
-
-<br>
-
-## 📊 GitHub Stats:
-
+## 📊 My GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prodigeez&theme=gotham&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=900)](https://git.io/streak-stats)
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodigeez&show_icons=true&theme=gotham&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=900)
-
-<br>
-
 ### ⚡ Fun Fact:
-
-Still addicted to coffee ☕ — a shared trait among developers. Keeps the code flowing!
-
-<br>
-
+Still addicted to coffee ☕ — a shared trait among developers!
 </div>
