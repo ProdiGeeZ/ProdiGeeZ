@@ -21,7 +21,6 @@
 
 Heavy creative enthusiast met code for the first time at university. I am actively looking to build. Not just code, but to network with other like-minded developers!
 
-<br>
 
 ## 🔭 Projects & Learning
 
