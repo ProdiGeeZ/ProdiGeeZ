@@ -1,5 +1,8 @@
-<div align="center">
+<picture>
+<img src="https://waltibmozphnocxzjzxf.supabase.co/storage/v1/object/public/personal/SAABIR.DEV.png" alt="MarineGEO circle logo" />
+</picture>
 
+<div align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/saabirahmed">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,7 +14,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
 <img src="https://komarev.com/ghpvc/?username=prodigeez&style=flat-square&color=blue" alt=""/>
 
 <br>
