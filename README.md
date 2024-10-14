@@ -61,7 +61,7 @@ Heavy creative enthusiast met code for the first time at university. I am active
 
 ## 📊 My GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prodigeez&theme=gotham&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=900&starting_year=2023)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prodigeez&theme=gotham&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=900&starting_year=2023&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ### ⚡ Fun Fact:
 
